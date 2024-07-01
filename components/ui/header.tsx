@@ -43,7 +43,7 @@ export default function Header() {
                 href="/signup"
                 className="btn-sm bg-gray-800 text-gray-200 shadow hover:bg-gray-900"
               >
-                Register
+                Sign Up
               </Link>
             </li>
           </ul>
